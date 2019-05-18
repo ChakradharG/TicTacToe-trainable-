@@ -1,2 +1,9 @@
 # TicTacToe-trainable-
-An implementation of tictactoe that gets better with each game
+An implementation of tictactoe that gets better with each game.
+
+I have implemented simple trial and error algorithm wherein whenever the cpu loses,
+it deletes the last (wrong) move it made from the list of possible moves.
+If only 1 move is possible for the particular board then the cpu deletes the previous move.
+
+At the time of upload, 1 have trained the code in excess of 1200 games. But it would take round about 10,000 games
+to learn all the moves.
