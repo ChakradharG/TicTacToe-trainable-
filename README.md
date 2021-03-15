@@ -14,4 +14,5 @@ T3_winratio contains win/loss details, 1 means the cpu won/tie and 0 means it lo
 
 ## Getting Started
 * Clone this repository
+* ```cd TicTacToe_Trainable```
 * Run ```T3_Final.py```
